@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import menus from '../menus';
-import bloglinks from '../bloglinks';
 
 class Header extends Component {
     constructor(props){
@@ -33,19 +32,6 @@ class Header extends Component {
                                                 <li key={menu.id}><Link to={menu.tomenu} className="click-model">{menu.namemenu}</Link></li>
                                             ))
                                         }                           
-                                        <li><Link to="blog">Blog</Link>
-                                            <ul className="sub-menu" >
-                                                {
-                                                    bloglinks.map(data => (
-                                                        <li key={data.id}>
-                                                            <Link to={data.toblog} onClick={() => {window.location.href=data.toblog}}>
-                                                                {data.nameblog}
-                                                            </Link>
-                                                        </li>
-                                                    ))
-                                                }
-                                            </ul>
-                                        </li>
                                     </ul>
                                 </nav>
                             </div>

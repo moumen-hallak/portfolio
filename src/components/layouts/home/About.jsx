@@ -20,7 +20,7 @@ class About extends Component {
                                     I"m Moumen I study Computer Since and I'm already into Frontend Development.
                                 </p>
                                 <p className="color-d13 lt-sp01">
-                                    I started my career as a Graphic Designer, I loved coding since i was a kid. After some years of working as a Graphic Designer, I decided to switch to Frontend Developer so I can achieve my passion
+                                I have extensive knowledge of Graphic Design, Short Videos, Social Media Management, Photography, WordPress, and ReactJS. I am able to combine Web Development and Design in a very pleasing way. I have 8 years of experience in the Media field in general and 5 years of experience in the Web field. Andalus Media Company gave me the opportunity to build over 70 WordPress websites. Additionally, I headed up the company's web department. 
                                 </p>
                             </div>
                         </div>

@@ -9,24 +9,24 @@ class TopEducation extends Component {
                     id: 1,
                     classname: 'experience-box experience-box-line t3',
                     datawow: '0.3s',
-                    year: 'Flatiron School',
-                    title: 'Frontend Development',
+                    year: 'UoPeople',
+                    title: 'Bachelor of Computer Science',
                     text: ''
                 },
                 {
                     id: 2,
                     classname: 'experience-box experience-box-line t3',
                     datawow: '0.5s',
-                    year: 'UoPeople',
-                    title: 'Computer Scince',
+                    year: 'Re:coded',
+                    title: 'Front-end Web Development Bootcamp',
                     text: ''
                 },
                 {
                     id: 3,
                     classname: 'experience-box t3',
                     datawow: '0.7s',
-                    year: 'Anime School',
-                    title: '3D Animation',
+                    year: 'Udacity',
+                    title: 'Front-end Development Track',
                     text: ''
                 }
             ],
@@ -56,7 +56,7 @@ class TopEducation extends Component {
                     year: '2018 - Present',
                     title: 'Media Consultant at',
                     office: 'Trust Consultancy',
-                    text: 'I give consultants and help with finalizing the media products.'
+                    text: 'I give consultants and help with finalizing the media products including Graphic Design, and the companny website.'
                 },
                 {
                     id: 3,
