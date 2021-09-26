@@ -17,9 +17,9 @@ class TopEducation extends Component {
                     id: 2,
                     classname: 'experience-box experience-box-line t3',
                     datawow: '0.5s',
-                    year: 'Re:coded',
+                    year: 'Flatiron School & Re:Coded',
                     title: 'Front-end Web Development Bootcamp',
-                    text: ''
+                    text: 'Collaboration between Flatiron School and Re:Coded'
                 },
                 {
                     id: 3,
@@ -27,7 +27,7 @@ class TopEducation extends Component {
                     datawow: '0.7s',
                     year: 'Udacity',
                     title: 'Front-end Development Track',
-                    text: ''
+                    text: 'As part of the 1 Million Arab Coders Initiative, I completed the Udacity course for Front-End Development.'
                 }
             ],
             contentbot : [

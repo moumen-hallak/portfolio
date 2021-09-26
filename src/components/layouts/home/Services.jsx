@@ -11,8 +11,7 @@ class Services extends Component {
                     srcimg: './images/section/20.png',
                     altimg: 'images',
                     title: 'Web UI Design',
-                    text01: "I'm a professional UX designer with",
-                    text02: "5 years of experience."
+                    text01: "I have good experience in designing website interfaces with 5 years of experience.",
                 },
                 {
                     id: 2,
@@ -20,8 +19,7 @@ class Services extends Component {
                     srcimg: './images/section/22.png',
                     altimg: 'images',
                     title: 'Frontend Developing',
-                    text01: "I'm a professional Frontend Developing with",
-                    text02: "2 years of experience."
+                    text01: "I have 2 years of experience as a Frontend Developer.",
                 },
                 {
                     id: 3,
@@ -29,8 +27,7 @@ class Services extends Component {
                     srcimg: './images/section/21.png',
                     altimg: 'images',
                     title: 'Mobile Application',
-                    text01: "I started mobile apps recently",
-                    text02: "1 year of experience."
+                    text01: "I started mobile apps recently less than 1 year of experience.",
                 }
             ]
         }

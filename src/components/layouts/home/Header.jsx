@@ -13,7 +13,7 @@ class Header extends Component {
                 <div className="container">
                     <div className="flex-header d-flex justify-content-between align-items-center">
                         <div id="logo" className="logo">
-                        <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="images/logo/Moumen-Logo.png" alt="images" data-width={122} data-height={34} data-retina="images/logo/Moumen-Logo.png" /></Link>
+                        <Link to="/" onClick={() => {window.location.href="/"}} title="Logo"><img src="images/logo/Mobile-Logo.png" alt="images" data-width={122} data-height={34} data-retina="images/logo/Moumen-Logo.png" /></Link>
                         </div>
                         <div dir="rtl" className="btn-menu mobile-header__menu-button">
                             <div className="line line-1" />
@@ -25,7 +25,7 @@ class Header extends Component {
                             <div className="nav-wrap">
                                 <nav id="mainnav" className="mainnav">
                                     <ul className="menu ace-responsive-menu" data-menu-style="horizontal">
-                                        <li><Link to="/" className="active">Home</Link>
+                                        <li><Link to="/#home" className="active">Home</Link>
                                         </li>   
                                         {
                                             menus.map(menu => (
